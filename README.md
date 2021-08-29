@@ -1,7 +1,7 @@
 # WP Docker
 
 Pull the docker-compose.yml.
-`git pull https://github.com/rangequest/wp-docker-compose.git`
+`git clone https://github.com/rangequest/wp-docker-compose.git`
 
 create a `wp-content` folder for persistent data.
 
